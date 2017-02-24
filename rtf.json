@@ -1,0 +1,1780 @@
+{ "controlwd": "\\aftnbj","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftncn","description": "Document Formatting Properties", "type": "Destination" }
+{ "controlwd": "\\aftnnalc","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnnar","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnnauc","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnnchi","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnnchosung","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnncnum","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnndbar","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnndbnum","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnndbnumd","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnndbnumk","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnndbnumt","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnnganada","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnngbnum","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnngbnumd","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnngbnumk","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnngbnuml","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnnrlc","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnnruc","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnnzodiac","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnnzodiacd","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnnzodiacl","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnrestart","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnrstcont","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aftnsep","description": "Document Formatting Properties", "type": "Destination" }
+{ "controlwd": "\\aftnsepc","description": "Document Formatting Properties", "type": "Destination" }
+{ "controlwd": "\\aftnstartN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\aftntj","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ai","description": "Associated Character Properties", "type": "Toggle" }
+{ "controlwd": "\\alangN","description": "Associated Character Properties", "type": "value" }
+{ "controlwd": "\\allowfieldendsel","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\allprot","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\alntblind","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\alt","description": "Style Sheet", "type": "flag" }
+{ "controlwd": "\\animtextN","description": "Font (Character) Formatting Properties", "type": "value" }
+{ "controlwd": "\\annotation","description": "Comments (Annotations)", "type": "Destination" }
+{ "controlwd": "\\annotprot","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ansi","description": "Character Set", "type": "flag" }
+{ "controlwd": "\\ansicpgN","description": "Character Set", "type": "value" }
+{ "controlwd": "\\aoutl","description": "Associated Character Properties", "type": "Toggle" }
+{ "controlwd": "\\ApplyBrkRules","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ascaps","description": "Associated Character Properties", "type": "Toggle" }
+{ "controlwd": "\\ashad","description": "Associated Character Properties", "type": "Toggle" }
+{ "controlwd": "\\asianbrkrule","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\aspalpha","description": "Paragraph Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\aspnum","description": "Paragraph Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\astrike","description": "Associated Character Properties", "type": "Toggle" }
+{ "controlwd": "\\atnauthor","description": "Comments (Annotations)", "type": "Destination" }
+{ "controlwd": "\\atndate","description": "Comments (Annotations)", "type": "Destination" }
+{ "controlwd": "\\atnicn","description": "Comments (Annotations)", "type": "Destination" }
+{ "controlwd": "\\atnid","description": "Comments (Annotations)", "type": "Destination" }
+{ "controlwd": "\\atnparent","description": "Comments (Annotations)", "type": "Destination" }
+{ "controlwd": "\\atnref","description": "Comments (Annotations)", "type": "Destination" }
+{ "controlwd": "\\atntime","description": "Comments (Annotations)", "type": "Destination" }
+{ "controlwd": "\\atrfend","description": "Comments (Annotations)", "type": "Destination" }
+{ "controlwd": "\\atrfstart","description": "Comments (Annotations)", "type": "Destination" }
+{ "controlwd": "\\aul","description": "Associated Character Properties", "type": "Toggle" }
+{ "controlwd": "\\auld","description": "Associated Character Properties", "type": "Toggle" }
+{ "controlwd": "\\auldb","description": "Associated Character Properties", "type": "Toggle" }
+{ "controlwd": "\\aulnone","description": "Associated Character Properties", "type": "Toggle" }
+{ "controlwd": "\\aulw","description": "Associated Character Properties", "type": "Toggle" }
+{ "controlwd": "\\aupN","description": "Associated Character Properties", "type": "value" }
+{ "controlwd": "\\author","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\autofmtoverride","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\b","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\background","description": "Document Formatting Properties", "type": "Destination" }
+{ "controlwd": "\\bdbfhdr","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\bdrrlswsix","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\bgbdiag","description": "Paragraph Shading", "type": "flag" }
+{ "controlwd": "\\bgcross","description": "Paragraph Shading", "type": "flag" }
+{ "controlwd": "\\bgdcross","description": "Paragraph Shading", "type": "flag" }
+{ "controlwd": "\\bgdkbdiag","description": "Paragraph Shading", "type": "flag" }
+{ "controlwd": "\\bgdkcross","description": "Paragraph Shading", "type": "flag" }
+{ "controlwd": "\\bgdkdcross","description": "Paragraph Shading", "type": "flag" }
+{ "controlwd": "\\bgdkfdiag","description": "Paragraph Shading", "type": "flag" }
+{ "controlwd": "\\bgdkhoriz","description": "Paragraph Shading", "type": "flag" }
+{ "controlwd": "\\bgdkvert","description": "Paragraph Shading", "type": "flag" }
+{ "controlwd": "\\bgfdiag","description": "Paragraph Shading", "type": "flag" }
+{ "controlwd": "\\bghoriz","description": "Paragraph Shading", "type": "flag" }
+{ "controlwd": "\\bgvert","description": "Paragraph Shading", "type": "flag" }
+{ "controlwd": "\\binN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\binfsxnN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\binsxnN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\bkmkcolfN","description": "Bookmarks", "type": "value" }
+{ "controlwd": "\\bkmkcollN","description": "Bookmarks", "type": "value" }
+{ "controlwd": "\\bkmkend","description": "Bookmarks", "type": "Destination" }
+{ "controlwd": "\\bkmkpub","description": "Macintosh Edition Manager Publisher Objects", "type": "flag" }
+{ "controlwd": "\\bkmkstart","description": "Bookmarks", "type": "Destination" }
+{ "controlwd": "\\bliptagN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\blipuid","description": "Pictures", "type": "Destination" }
+{ "controlwd": "\\blipupiN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\blueN","description": "Color Table", "type": "value" }
+{ "controlwd": "\\bookfold","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\bookfoldrev","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\bookfoldsheetsN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\box","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrartN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\brdrb","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrbar","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrbtw","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrcfN","description": "Paragraph Borders", "type": "value" }
+{ "controlwd": "\\brdrdash","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrdashd","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrdashdd","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrdashdot","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrdashdotdot","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrdashdotstr","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrdashsm","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrdb","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrdot","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdremboss","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrengrave","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrframe","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrhair","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrinset","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrl","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrnil","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrnone","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdroutset","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrr","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrs","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrsh","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrt","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrtbl","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrth","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrthtnlg","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrthtnmg","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrthtnsg","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrtnthlg","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrtnthmg","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrtnthsg","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrtnthtnlg","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrtnthtnmg","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrtnthtnsg","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrtriple","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrwN","description": "Paragraph Borders", "type": "value" }
+{ "controlwd": "\\brdrwavy","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brdrwavydb","description": "Paragraph Borders", "type": "flag" }
+{ "controlwd": "\\brkfrm","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\brspN","description": "Paragraph Borders", "type": "value" }
+{ "controlwd": "\\bullet","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\buptim","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\bxe","description": "Index Entries", "type": "flag" }
+{ "controlwd": "\\caccentfive","description": "Color Table", "type": "flag" }
+{ "controlwd": "\\caccentfour","description": "Color Table", "type": "flag" }
+{ "controlwd": "\\caccentone","description": "Color Table", "type": "flag" }
+{ "controlwd": "\\caccentsix","description": "Color Table", "type": "flag" }
+{ "controlwd": "\\caccentthree","description": "Color Table", "type": "flag" }
+{ "controlwd": "\\caccenttwo","description": "Color Table", "type": "flag" }
+{ "controlwd": "\\cachedcolbal","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\caps","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\category","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\cbN","description": "Font (Character) Formatting Properties", "type": "value" }
+{ "controlwd": "\\cbackgroundone","description": "Color Table", "type": "flag" }
+{ "controlwd": "\\cbackgroundtwo","description": "Color Table", "type": "flag" }
+{ "controlwd": "\\cbpatN","description": "Paragraph Shading", "type": "value" }
+{ "controlwd": "\\cchsN","description": "Font (Character) Formatting Properties", "type": "value" }
+{ "controlwd": "\\cell","description": "Table Definitions", "type": "Symbol" }
+{ "controlwd": "\\cellxN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\cfN","description": "Font (Character) Formatting Properties", "type": "value" }
+{ "controlwd": "\\cfollowedhyperlink","description": "Color Table", "type": "flag" }
+{ "controlwd": "\\cfpatN","description": "Paragraph Shading", "type": "value" }
+{ "controlwd": "\\cgridN","description": "East Asian Control Words", "type": "value" }
+{ "controlwd": "\\charrsidN","description": "Track Changes (Revision Marks)", "type": "value" }
+{ "controlwd": "\\charscalexN","description": "Font (Character) Formatting Properties", "type": "value" }
+{ "controlwd": "\\chatn","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\chbgbdiag","description": "Character Borders and Shading", "type": "flag" }
+{ "controlwd": "\\chbgcross","description": "Character Borders and Shading", "type": "flag" }
+{ "controlwd": "\\chbgdcross","description": "Character Borders and Shading", "type": "flag" }
+{ "controlwd": "\\chbgdkbdiag","description": "Character Borders and Shading", "type": "flag" }
+{ "controlwd": "\\chbgdkcross","description": "Character Borders and Shading", "type": "flag" }
+{ "controlwd": "\\chbgdkdcross","description": "Character Borders and Shading", "type": "flag" }
+{ "controlwd": "\\chbgdkfdiag","description": "Character Borders and Shading", "type": "flag" }
+{ "controlwd": "\\chbgdkhoriz","description": "Character Borders and Shading", "type": "flag" }
+{ "controlwd": "\\chbgdkvert","description": "Character Borders and Shading", "type": "flag" }
+{ "controlwd": "\\chbgfdiag","description": "Character Borders and Shading", "type": "flag" }
+{ "controlwd": "\\chbghoriz","description": "Character Borders and Shading", "type": "flag" }
+{ "controlwd": "\\chbgvert","description": "Character Borders and Shading", "type": "flag" }
+{ "controlwd": "\\chbrdr","description": "Character Borders and Shading", "type": "flag" }
+{ "controlwd": "\\chcbpatN","description": "Character Borders and Shading", "type": "value" }
+{ "controlwd": "\\chcfpatN","description": "Character Borders and Shading", "type": "value" }
+{ "controlwd": "\\chdate","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\chdpa","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\chdpl","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\chftn","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\chftnsep","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\chftnsepc","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\chpgn","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\chhresN","description": "Hyphenation Information", "type": "value" }
+{ "controlwd": "\\chshdngN","description": "Character Borders and Shading", "type": "value" }
+{ "controlwd": "\\chtime","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\chyperlink","description": "Color Table", "type": "flag" }
+{ "controlwd": "\\clbgbdiag","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clbgcross","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clbgdcross","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clbgdkbdiag","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clbgdkcross","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clbgdkdcross","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clbgdkfdiag","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clbgdkhor","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clbgdkvert","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clbgfdiag","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clbghoriz","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clbgvert","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clbrdrb","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clbrdrl","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clbrdrr","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clbrdrt","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clcbpatN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clcbpatrawN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clcfpatN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clcfpatrawN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\cldel","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\cldelauthN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\cldeldttmN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\cldgll","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\cldglu","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clFitText","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clftsWidthN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clhidemark","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clins","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clinsauthN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clinsdttmN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clmgf","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clmrg","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clmrgd","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clmrgdauthN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clmrgddttmN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clmrgdr","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clNoWrap","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clpadbN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clpadfbN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clpadflN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clpadfrN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clpadftN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clpadlN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clpadrN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clpadtN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clspbN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clspfbN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clspflN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clspfrN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clspftN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clsplN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clsprN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clsptN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clshdngN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clshdngrawN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\clshdrawnil","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clsplit","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clsplitr","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\cltxbtlr","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\cltxlrtb","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\cltxlrtbv","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\cltxtbrl","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\cltxtbrlv","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clvertalb","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clvertalc","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clvertalt","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clvmgf","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clvmrg","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\clwWidthN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\cmaindarkone","description": "Color Table", "type": "flag" }
+{ "controlwd": "\\cmaindarktwo","description": "Color Table", "type": "flag" }
+{ "controlwd": "\\cmainlightone","description": "Color Table", "type": "flag" }
+{ "controlwd": "\\cmainlighttwo","description": "Color Table", "type": "flag" }
+{ "controlwd": "\\collapsed","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\colnoN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\colorschememapping","description": "Color Scheme Mapping", "type": "Destination" }
+{ "controlwd": "\\colortbl","description": "Color Table", "type": "Destination" }
+{ "controlwd": "\\colsN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\colsrN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\colsxN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\column","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\colwN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\comment","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\company","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\contextualspace","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\cpgN","description": "Code Page Support", "type": "value" }
+{ "controlwd": "\\crauthN","description": "Character Revision Mark Properties", "type": "value" }
+{ "controlwd": "\\crdateN","description": "Character Revision Mark Properties", "type": "value" }
+{ "controlwd": "\\creatim","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\csN","description": "Font (Character) Formatting Properties", "type": "value" }
+{ "controlwd": "\\cshadeN","description": "Color Table", "type": "value" }
+{ "controlwd": "\\ctextone","description": "Color Table", "type": "flag" }
+{ "controlwd": "\\ctexttwo","description": "Color Table", "type": "flag" }
+{ "controlwd": "\\ctintN","description": "Color Table", "type": "value" }
+{ "controlwd": "\\ctrl","description": "Style Sheet", "type": "flag" }
+{ "controlwd": "\\ctsN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\cufiN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\culiN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\curiN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\cvmme","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\datafield","description": "Fields", "type": "Destination" }
+{ "controlwd": "\\datastore","description": "Custom XML Data Properties", "type": "Destination" }
+{ "controlwd": "\\date","description": "Fields   flag", "type": "(obsolete)" }
+{ "controlwd": "\\dbch","description": "Associated Character Properties", "type": "flag" }
+{ "controlwd": "\\defchp","description": "Default Properties", "type": "Destination" }
+{ "controlwd": "\\deffN","description": "Default Fonts", "type": "value" }
+{ "controlwd": "\\defformat","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\deflangN","description": "Default Fonts", "type": "value" }
+{ "controlwd": "\\deflangfeN","description": "Default Fonts", "type": "value" }
+{ "controlwd": "\\defpap","description": "Default Properties", "type": "Destination" }
+{ "controlwd": "\\defshp","description": "Pictures", "type": "flag" }
+{ "controlwd": "\\deftabN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\deleted","description": "Character Revision Mark Properties", "type": "Toggle" }
+{ "controlwd": "\\delrsidN","description": "Track Changes (Revision Marks)", "type": "value" }
+{ "controlwd": "\\dfrauthN","description": "Paragraph Revision Mark Properties", "type": "value" }
+{ "controlwd": "\\dfrdateN","description": "Paragraph Revision Mark Properties", "type": "value" }
+{ "controlwd": "\\dfrmtxtxN","description": "Positioned Objects and Frames", "type": "value" }
+{ "controlwd": "\\dfrmtxtyN","description": "Positioned Objects and Frames", "type": "value" }
+{ "controlwd": "\\dfrstart","description": "Paragraph Revision Mark Properties", "type": "value" }
+{ "controlwd": "\\dfrstop","description": "Paragraph Revision Mark Properties", "type": "value" }
+{ "controlwd": "\\dfrxst","description": "Paragraph Revision Mark Properties", "type": "value" }
+{ "controlwd": "\\dghoriginN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\dghshowN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\dghspaceN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\dgmargin","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\dgsnap","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\dgvoriginN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\dgvshowN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\dgvspaceN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\dibitmapN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\disabled","description": "Control Words Introduced by Other Microsoft Products", "type": "Toggle" }
+{ "controlwd": "\\dnN","description": "Font (Character) Formatting Properties", "type": "value" }
+{ "controlwd": "\\dntblnsbdb","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\do","description": "Drawing Objects", "type": "Destination" }
+{ "controlwd": "\\dobxcolumn","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dobxmargin","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dobxpage","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dobymargin","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dobypage","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dobypara","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\doccomm","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\doctemp","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\doctypeN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\docvar","description": "Document Variables", "type": "Destination" }
+{ "controlwd": "\\dodhgtN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dolock","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\donotembedlingdataN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\donotembedsysfontN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\donotshowcomments","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\donotshowinsdel","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\donotshowmarkup","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\donotshowprops","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\dpaendhol","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpaendlN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpaendsol","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpaendwN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dparc","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dparcflipx","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dparcflipy","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpastarthol","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpastartlN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpastartsol","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpastartwN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpcallout","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpcoaN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpcoaccent","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpcobestfit","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpcoborder","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpcodabs","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpcodbottom","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpcodcenter","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpcodescentN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpcodtop","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpcolengthN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpcominusx","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpcominusy","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpcooffsetN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpcosmarta","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpcotdouble","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpcotright","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpcotsingle","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpcottriple","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpcountN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpellipse","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpendgroup","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpfillbgcbN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpfillbgcgN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpfillbgcrN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpfillbggrayN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpfillbgpal","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpfillfgcbN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpfillfgcgN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpfillfgcrN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpfillfggrayN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpfillfgpal","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpfillpatN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpgroup","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpline","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dplinecobN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dplinecogN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dplinecorN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dplinedado","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dplinedadodo","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dplinedash","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dplinedot","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dplinegrayN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dplinehollow","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dplinepal","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dplinesolid","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dplinewN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dppolycountN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dppolygon","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dppolyline","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpptxN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpptyN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dprect","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dproundr","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpshadow","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpshadxN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpshadyN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dptxbtlr","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dptxbx","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dptxbxmarN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dptxbxtext","description": "Drawing Objects", "type": "Destination" }
+{ "controlwd": "\\dptxlrtb","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dptxlrtbv","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dptxtbrl","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dptxtbrlv","description": "Drawing Objects", "type": "flag" }
+{ "controlwd": "\\dpxN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpxsizeN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpyN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dpysizeN","description": "Drawing Objects", "type": "value" }
+{ "controlwd": "\\dropcapliN","description": "Positioned Objects and Frames", "type": "value" }
+{ "controlwd": "\\dropcaptN","description": "Positioned Objects and Frames", "type": "value" }
+{ "controlwd": "\\dsN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\dxfrtextN","description": "Positioned Objects and Frames", "type": "value" }
+{ "controlwd": "\\dyN","description": "Information Group", "type": "value" }
+{ "controlwd": "\\ebcend","description": "Microsoft Office Outlook?", "type": "Destination" }
+{ "controlwd": "\\ebcstart","description": "Microsoft Office Outlook", "type": "Destination" }
+{ "controlwd": "\\edminsN","description": "Information Group", "type": "value" }
+{ "controlwd": "\\embo","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\emdash","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\emfblip","description": "Pictures", "type": "flag" }
+{ "controlwd": "\\emspace","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\endash","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\enddoc","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\endnhere","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\endnotes","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\enforceprotN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\enspace","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\expndN","description": "Font (Character) Formatting Properties", "type": "value" }
+{ "controlwd": "\\expndtwN","description": "Font (Character) Formatting Properties", "type": "value" }
+{ "controlwd": "\\expshrtn","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\fN","description": "Font (Character) Formatting Properties", "type": "value" }
+{ "controlwd": "\\faauto","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\facenter","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\facingp","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\factoidname","description": "SmartTag Data", "type": "Destination" }
+{ "controlwd": "\\fafixed","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\fahang","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\falt","description": "Font Table", "type": "Destination" }
+{ "controlwd": "\\faroman","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\favar","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\fbiasN","description": "Font Table", "type": "value" }
+{ "controlwd": "\\fbidi","description": "Font Table", "type": "flag" }
+{ "controlwd": "\\fbidis","description": "Character Set", "type": "flag" }
+{ "controlwd": "\\fbimajor","description": "Theme Font Information", "type": "flag" }
+{ "controlwd": "\\fbiminor","description": "Theme Font Information", "type": "flag" }
+{ "controlwd": "\\fchars","description": "Document Formatting Properties", "type": "Destination" }
+{ "controlwd": "\\fcharsetN","description": "Font Table", "type": "value" }
+{ "controlwd": "\\fcsN","description": "Associated Character Properties", "type": "value" }
+{ "controlwd": "\\fdbmajor","description": "Theme Font Information", "type": "flag" }
+{ "controlwd": "\\fdbminor","description": "Theme Font Information", "type": "flag" }
+{ "controlwd": "\\fdecor","description": "Font Table", "type": "flag" }
+{ "controlwd": "\\felnbrelev","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\fetN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\fetch","description": "Font Table", "type": "flag" }
+{ "controlwd": "\\ffdefresN","description": "Form Fields", "type": "value" }
+{ "controlwd": "\\ffdeftext","description": "Form Fields", "type": "Destination" }
+{ "controlwd": "\\ffentrymcr","description": "Form Fields", "type": "Destination" }
+{ "controlwd": "\\ffexitmcr","description": "Form Fields", "type": "Destination" }
+{ "controlwd": "\\ffformat","description": "Form Fields", "type": "Destination" }
+{ "controlwd": "\\ffhaslistboxN","description": "Form Fields", "type": "value" }
+{ "controlwd": "\\ffhelptext","description": "Form Fields", "type": "Destination" }
+{ "controlwd": "\\ffhpsN","description": "Form Fields", "type": "value" }
+{ "controlwd": "\\ffl","description": "Form Fields", "type": "Destination" }
+{ "controlwd": "\\ffmaxlenN","description": "Form Fields", "type": "value" }
+{ "controlwd": "\\ffname","description": "Form Fields", "type": "Destination" }
+{ "controlwd": "\\ffownhelpN","description": "Form Fields", "type": "value" }
+{ "controlwd": "\\ffownstatN","description": "Form Fields", "type": "value" }
+{ "controlwd": "\\ffprotN","description": "Form Fields", "type": "value" }
+{ "controlwd": "\\ffrecalcN","description": "Form Fields", "type": "value" }
+{ "controlwd": "\\ffresN","description": "Form Fields", "type": "value" }
+{ "controlwd": "\\ffsizeN","description": "Form Fields", "type": "value" }
+{ "controlwd": "\\ffstattext","description": "Form Fields", "type": "Destination" }
+{ "controlwd": "\\fftypeN","description": "Form Fields", "type": "value" }
+{ "controlwd": "\\fftypetxtN","description": "Form Fields", "type": "value" }
+{ "controlwd": "\\fhimajor","description": "Theme Font Information", "type": "flag" }
+{ "controlwd": "\\fhiminor","description": "Theme Font Information", "type": "flag" }
+{ "controlwd": "\\fiN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\fidN","description": "File Table", "type": "value" }
+{ "controlwd": "\\field","description": "Fields", "type": "Destination" }
+{ "controlwd": "\\file","description": "File Table", "type": "Destination" }
+{ "controlwd": "\\filetbl","description": "File Table", "type": "Destination" }
+{ "controlwd": "\\fittextN","description": "Font (Character) Formatting Properties", "type": "value" }
+{ "controlwd": "\\fjgothic","description": "Font Family", "type": "flag" }
+{ "controlwd": "\\fjminchou","description": "Font Family", "type": "flag" }
+{ "controlwd": "\\fldalt","description": "Fields", "type": "flag" }
+{ "controlwd": "\\flddirty","description": "Fields", "type": "flag" }
+{ "controlwd": "\\fldedit","description": "Fields", "type": "flag" }
+{ "controlwd": "\\fldinst","description": "Fields", "type": "Destination" }
+{ "controlwd": "\\fldlock","description": "Fields", "type": "flag" }
+{ "controlwd": "\\fldpriv","description": "Fields", "type": "flag" }
+{ "controlwd": "\\fldrslt","description": "Fields", "type": "Destination" }
+{ "controlwd": "\\fldtype","description": "Fields   Destination", "type": "(obsolete)" }
+{ "controlwd": "\\flomajor","description": "Theme Font Information", "type": "flag" }
+{ "controlwd": "\\flominor","description": "Theme Font Information", "type": "flag" }
+{ "controlwd": "\\fmodern","description": "Font Table", "type": "flag" }
+{ "controlwd": "\\fnN","description": "Style Sheet", "type": "value" }
+{ "controlwd": "\\fname","description": "Font Table", "type": "Destination" }
+{ "controlwd": "\\fnetwork","description": "File Table", "type": "flag" }
+{ "controlwd": "\\fnil","description": "Font Table", "type": "flag" }
+{ "controlwd": "\\fnonfilesys","description": "File Table", "type": "flag" }
+{ "controlwd": "\\fontemb","description": "Font Table", "type": "Destination" }
+{ "controlwd": "\\fontfile","description": "Font Table", "type": "Destination" }
+{ "controlwd": "\\fonttbl","description": "Font Table", "type": "Destination" }
+{ "controlwd": "\\footer","description": "Headers and Footers", "type": "Destination" }
+{ "controlwd": "\\footerf","description": "Headers and Footers", "type": "Destination" }
+{ "controlwd": "\\footerl","description": "Headers and Footers", "type": "Destination" }
+{ "controlwd": "\\footerr","description": "Headers and Footers", "type": "Destination" }
+{ "controlwd": "\\footeryN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\footnote","description": "Footnotes", "type": "Destination" }
+{ "controlwd": "\\forceupgrade","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\formdisp","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\formfield","description": "Form Fields", "type": "Destination" }
+{ "controlwd": "\\formprot","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\formshade","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\fosnumN","description": "File Table", "type": "value" }
+{ "controlwd": "\\fprqN","description": "Font Table", "type": "value" }
+{ "controlwd": "\\fracwidth","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\frelativeN","description": "File Table", "type": "value" }
+{ "controlwd": "\\frmtxbtlr","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\frmtxlrtb","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\frmtxlrtbv","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\frmtxtbrl","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\frmtxtbrlv","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\froman","description": "Font Table", "type": "flag" }
+{ "controlwd": "\\fromhtmlN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\fromtext","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\fsN","description": "Font (Character) Formatting Properties", "type": "value" }
+{ "controlwd": "\\fscript","description": "Font Table", "type": "flag" }
+{ "controlwd": "\\fswiss","description": "Font Table", "type": "flag" }
+{ "controlwd": "\\ftech","description": "Font Table", "type": "flag" }
+{ "controlwd": "\\ftnalt","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnbj","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftncn","description": "Document Formatting Properties", "type": "Destination" }
+{ "controlwd": "\\ftnil","description": "Font Table", "type": "flag" }
+{ "controlwd": "\\ftnlytwnine","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnnalc","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnnar","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnnauc","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnnchi","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnnchosung","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnncnum","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnndbar","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnndbnum","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnndbnumd","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnndbnumk","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnndbnumt","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnnganada","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnngbnum","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnngbnumd","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnngbnumk","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnngbnuml","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnnrlc","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnnruc","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnnzodiac","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnnzodiacd","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnnzodiacl","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnrestart","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnrstcont","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnrstpg","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ftnsep","description": "Document Formatting Properties", "type": "Destination" }
+{ "controlwd": "\\ftnsepc","description": "Document Formatting Properties", "type": "Destination" }
+{ "controlwd": "\\ftnstartN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\ftntj","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\fttruetype","description": "Font Table", "type": "flag" }
+{ "controlwd": "\\fvaliddos","description": "File Table", "type": "flag" }
+{ "controlwd": "\\fvalidhpfs","description": "File Table", "type": "flag" }
+{ "controlwd": "\\fvalidmac","description": "File Table", "type": "flag" }
+{ "controlwd": "\\fvalidntfs","description": "File Table", "type": "flag" }
+{ "controlwd": "\\g","description": "East Asian Control Words", "type": "Destination" }
+{ "controlwd": "\\gcwN","description": "East Asian Control Words", "type": "value" }
+{ "controlwd": "\\generator","description": "Generator", "type": "Destination" }
+{ "controlwd": "\\greenN","description": "Color Table", "type": "value" }
+{ "controlwd": "\\grfdoceventsN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\gridtbl","description": "East Asian Control Words", "type": "Destination" }
+{ "controlwd": "\\gutterN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\gutterprl","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\guttersxnN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\header","description": "Headers and Footers", "type": "Destination" }
+{ "controlwd": "\\headerf","description": "Headers and Footers", "type": "Destination" }
+{ "controlwd": "\\headerl","description": "Headers and Footers", "type": "Destination" }
+{ "controlwd": "\\headerr","description": "Headers and Footers", "type": "Destination" }
+{ "controlwd": "\\headeryN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\hich","description": "Associated Character Properties", "type": "flag" }
+{ "controlwd": "\\highlightN","description": "Highlighting", "type": "value" }
+{ "controlwd": "\\hl","description": "Drawing Object Properties", "type": "Destination" }
+{ "controlwd": "\\hlfr","description": "Drawing Object Properties", "type": "Destination" }
+{ "controlwd": "\\hlinkbase","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\hlloc","description": "Drawing Object Properties", "type": "Destination" }
+{ "controlwd": "\\hlsrc","description": "Drawing Object Properties", "type": "Destination" }
+{ "controlwd": "\\horzdoc","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\horzsect","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\horzvertN","description": "New Asia Control Words Created by Word", "type": "value" }
+{ "controlwd": "\\hrN","description": "Information Group", "type": "value" }
+{ "controlwd": "\\hresN","description": "Hyphenation Information", "type": "value" }
+{ "controlwd": "\\hrule","description": "Drawing Object Properties", "type": "flag" }
+{ "controlwd": "\\hsv","description": "Drawing Object Properties", "type": "Destination" }
+{ "controlwd": "\\htmautsp","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\htmlbase","description": "Control Words Introduced by Other Microsoft Products", "type": "flag" }
+{ "controlwd": "\\htmlrtf","description": "Control Words Introduced by Other Microsoft Products", "type": "Toggle" }
+{ "controlwd": "\\htmltag","description": "Control Words Introduced by Other Microsoft Products", "type": "Destination" }
+{ "controlwd": "\\hwelev","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\hyphauto","description": "Document Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\hyphcaps","description": "Document Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\hyphconsecN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\hyphhotzN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\hyphpar","description": "Paragraph Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\i","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\idN","description": "Information Group", "type": "value" }
+{ "controlwd": "\\ignoremixedcontentN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\ilfomacatclnupN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\ilvlN","description": "Bullets and Numbering", "type": "value" }
+{ "controlwd": "\\impr","description": "Character Text", "type": "Toggle" }
+{ "controlwd": "\\indmirror","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\indrlsweleven","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\info","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\insrsidN","description": "Track Changes (Revision Marks)", "type": "value" }
+{ "controlwd": "\\intbl","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ipgpN","description": "Paragraph Group Propreties", "type": "value" }
+{ "controlwd": "\\irowbandN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\irowN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\itapN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\ixe","description": "Index Entries", "type": "flag" }
+{ "controlwd": "\\jcompress","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\jexpand","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\jis","description": "Font Family", "type": "flag" }
+{ "controlwd": "\\jpegblip","description": "Pictures", "type": "flag" }
+{ "controlwd": "\\jsksu","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\keep","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\keepn","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\kerningN","description": "Font (Character) Formatting Properties", "type": "value" }
+{ "controlwd": "\\keycode","description": "Style Sheet", "type": "Destination" }
+{ "controlwd": "\\keywords","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\krnprsnet","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ksulangN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\jclisttab","description": "List Table", "type": "flag" }
+{ "controlwd": "\\landscape","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\langN","description": "Font (Character) Formatting Properties", "type": "value" }
+{ "controlwd": "\\langfeN","description": "Font (Character) Formatting Properties", "type": "value" }
+{ "controlwd": "\\langfenpN","description": "Font (Character) Formatting Properties", "type": "value" }
+{ "controlwd": "\\langnpN","description": "Font (Character) Formatting Properties", "type": "value" }
+{ "controlwd": "\\lastrow","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\latentstyles","description": "Style and Formatting Restrictions", "type": "Destination" }
+{ "controlwd": "\\lbrN","description": "Special Characters", "type": "value" }
+{ "controlwd": "\\lchars","description": "Document Formatting Properties", "type": "Destination" }
+{ "controlwd": "\\ldblquote","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\levelN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\levelfollowN","description": "List Table", "type": "value" }
+{ "controlwd": "\\levelindentN","description": "List Table", "type": "value" }
+{ "controlwd": "\\leveljcN","description": "List Table", "type": "value" }
+{ "controlwd": "\\leveljcnN","description": "List Table", "type": "value" }
+{ "controlwd": "\\levellegalN","description": "List Table", "type": "value" }
+{ "controlwd": "\\levelnfcN","description": "List Table", "type": "value" }
+{ "controlwd": "\\levelnfcnN","description": "List Table", "type": "value" }
+{ "controlwd": "\\levelnorestartN","description": "List Table", "type": "value" }
+{ "controlwd": "\\levelnumbers","description": "List Table", "type": "Destination" }
+{ "controlwd": "\\leveloldN","description": "List Table", "type": "value" }
+{ "controlwd": "\\levelpictureN","description": "List Table", "type": "value" }
+{ "controlwd": "\\levelpicturenosize","description": "List Table", "type": "flag" }
+{ "controlwd": "\\levelprevN","description": "List Table", "type": "value" }
+{ "controlwd": "\\levelprevspaceN","description": "List Table", "type": "value" }
+{ "controlwd": "\\levelspaceN","description": "List Table", "type": "value" }
+{ "controlwd": "\\levelstartatN","description": "List Table", "type": "value" }
+{ "controlwd": "\\leveltemplateidN","description": "List Table", "type": "value" }
+{ "controlwd": "\\leveltext","description": "List Table", "type": "Destination" }
+{ "controlwd": "\\lfolevel","description": "List Table", "type": "Destination" }
+{ "controlwd": "\\liN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\line","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\linebetcol","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\linecont","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\linemodN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\lineppage","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\linerestart","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\linestartN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\linestartsN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\linexN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\linkself","description": "Objects", "type": "flag" }
+{ "controlwd": "\\linkstyles","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\linkval","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\linN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\lisaN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\lisbN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\list","description": "List Table", "type": "Destination" }
+{ "controlwd": "\\listhybrid","description": "List Table", "type": "flag" }
+{ "controlwd": "\\listidN","description": "List Table", "type": "value" }
+{ "controlwd": "\\listlevel","description": "List Table", "type": "Destination" }
+{ "controlwd": "\\listname","description": "List Table", "type": "Destination" }
+{ "controlwd": "\\listoverride","description": "List Table", "type": "Destination" }
+{ "controlwd": "\\listoverridecountN","description": "List Table", "type": "value" }
+{ "controlwd": "\\listoverrideformatN","description": "List Table", "type": "value" }
+{ "controlwd": "\\listoverridestartat","description": "List Table", "type": "flag" }
+{ "controlwd": "\\listoverridetable","description": "List Table", "type": "Destination" }
+{ "controlwd": "\\listpicture","description": "List Table", "type": "Destination" }
+{ "controlwd": "\\listrestarthdnN","description": "List Table", "type": "value" }
+{ "controlwd": "\\listsimpleN","description": "List Table", "type": "value" }
+{ "controlwd": "\\liststyleidN","description": "List Table", "type": "value" }
+{ "controlwd": "\\liststylename","description": "List Table", "type": "Destination" }
+{ "controlwd": "\\listtable","description": "List Table", "type": "Destination" }
+{ "controlwd": "\\listtemplateidN","description": "List Table", "type": "value" }
+{ "controlwd": "\\listtext","description": "Bullets and Numbering", "type": "Destination" }
+{ "controlwd": "\\lnbrkrule","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\lndscpsxn","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\lnongrid","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\loch","description": "Associated Character Properties", "type": "flag" }
+{ "controlwd": "\\lquote","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\lsN","description": "List Table", "type": "value" }
+{ "controlwd": "\\lsdlockedN","description": "Style and Formatting Restrictions", "type": "value" }
+{ "controlwd": "\\lsdlockeddefN","description": "Style and Formatting Restrictions", "type": "value" }
+{ "controlwd": "\\lsdlockedexcept","description": "Style and Formatting Restrictions", "type": "Destination" }
+{ "controlwd": "\\lsdpriorityN","description": "Style and Formatting Restrictions", "type": "value" }
+{ "controlwd": "\\lsdprioritydefN","description": "Style and Formatting Restrictions", "type": "value" }
+{ "controlwd": "\\lsdqformatN","description": "Style and Formatting Restrictions", "type": "value" }
+{ "controlwd": "\\lsdqformatdefN","description": "Style and Formatting Restrictions", "type": "value" }
+{ "controlwd": "\\lsdsemihiddenN","description": "Style and Formatting Restrictions", "type": "value" }
+{ "controlwd": "\\lsdsemihiddendefN","description": "Style and Formatting Restrictions", "type": "value" }
+{ "controlwd": "\\lsdstimaxN","description": "Style and Formatting Restrictions", "type": "value" }
+{ "controlwd": "\\lsdunhideusedN","description": "Style and Formatting Restrictions", "type": "value" }
+{ "controlwd": "\\lsdunhideuseddefN","description": "Style and Formatting Restrictions", "type": "value" }
+{ "controlwd": "\\ltrch","description": "Font (Character) Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ltrdoc","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ltrmark","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\ltrpar","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ltrrow","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\ltrsect","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\lvltentative","description": "List Levels", "type": "flag" }
+{ "controlwd": "\\lytcalctblwd","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\lytexcttp","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\lytprtmet","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\lyttblrtgr","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\mac","description": "Character Set", "type": "flag" }
+{ "controlwd": "\\macc","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\maccPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\macpict","description": "Pictures", "type": "flag" }
+{ "controlwd": "\\mailmerge","description": "Mail Merge   Destination", "type": "" }
+{ "controlwd": "\\makebackup","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\maln","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\malnScr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\manager","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\margbN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\margbsxnN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\marglN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\marglsxnN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\margmirror","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\margmirsxn","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\margPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\margrN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\margrsxnN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\margSzN","description": "Math   value", "type": "" }
+{ "controlwd": "\\margtN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\margtsxnN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\mbar","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mbarPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mbaseJc","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mbegChr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mborderBox","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mborderBoxPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mbox","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mboxPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mbrkN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mbrkBinN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mbrkBinSubN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mcGpN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mcGpRuleN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mchr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mcount","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mcSpN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mctrlPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\md","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mdefJcN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mdeg","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mdegHide","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mden","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mdiff","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mdiffStyN","description": "Math", "type": "value" }
+{ "controlwd": "\\mdispdefN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mdPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\me","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mendChr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\meqArr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\meqArrPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mf","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mfName","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mfPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mfunc","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mfuncPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mgroupChr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mgroupChrPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mgrow","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mhideBot","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mhideLeft","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mhideRight","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mhideTop","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mhtmltag","description": "Control Words Introduced by Other Microsoft Products", "type": "Destination" }
+{ "controlwd": "\\minN","description": "Information Group", "type": "value" }
+{ "controlwd": "\\minterSpN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mintLimN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mintraSpN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mjcN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mlim","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mlimloc","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mlimlow","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mlimlowPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mlimupp","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mlimuppPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mlit","description": "Math   flag", "type": "" }
+{ "controlwd": "\\mlMarginN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mm","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mmaddfieldname","description": "Mail Merge", "type": "Destination" }
+{ "controlwd": "\\mmath","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mmathFontN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mmathPict","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mmathPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mmattach","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmaxdist","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mmblanklines","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmc","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mmcJc","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mmconnectstr","description": "Mail Merge", "type": "Destination" }
+{ "controlwd": "\\mmconnectstrdata","description": "Mail Merge", "type": "Destination" }
+{ "controlwd": "\\mmcPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mmcs","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mmdatasource","description": "Mail Merge", "type": "Destination" }
+{ "controlwd": "\\mmdatatypeaccess","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmdatatypeexcel","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmdatatypefile","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmdatatypeodbc","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmdatatypeodso","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmdatatypeqt","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmdefaultsql","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmdestemail","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmdestfax","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmdestnewdoc","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmdestprinter","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmerrorsN","description": "Mail Merge", "type": "value" }
+{ "controlwd": "\\mmfttypeaddress","description": "Mail Merge   flag", "type": "" }
+{ "controlwd": "\\mmfttypebarcode","description": "Mail Merge   flag", "type": "" }
+{ "controlwd": "\\mmfttypedbcolumn","description": "Mail Merge   flag", "type": "" }
+{ "controlwd": "\\mmfttypemapped","description": "Mail Merge   flag", "type": "" }
+{ "controlwd": "\\mmfttypenull","description": "Mail Merge   flag", "type": "" }
+{ "controlwd": "\\mmfttypesalutation","description": "Mail Merge   flag", "type": "" }
+{ "controlwd": "\\mmheadersource","description": "Mail Merge", "type": "Destination" }
+{ "controlwd": "\\mmjdsotypeN","description": "Mail Merge   value", "type": "" }
+{ "controlwd": "\\mmlinktoquery","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmmailsubject","description": "Mail Merge", "type": "Destination" }
+{ "controlwd": "\\mmmaintypecatalog","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmmaintypeemail","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmmaintypeenvelopes","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmmaintypefax","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmmaintypelabels","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmmaintypeletters","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mmodso","description": "Mail Merge", "type": "Destination" }
+{ "controlwd": "\\mmodsoactiveN","description": "Mail Merge   value", "type": "" }
+{ "controlwd": "\\mmodsocoldelimN","description": "Mail Merge   value", "type": "" }
+{ "controlwd": "\\mmodsocolumnN","description": "Mail Merge   value", "type": "" }
+{ "controlwd": "\\mmodsodynaddrN","description": "Mail Merge   value", "type": "" }
+{ "controlwd": "\\mmodsofhdrN","description": "Mail Merge   value", "type": "" }
+{ "controlwd": "\\mmodsofilter","description": "Mail Merge", "type": "Destination" }
+{ "controlwd": "\\mmodsofldmpdata","description": "Mail Merge", "type": "Destination" }
+{ "controlwd": "\\mmodsofmcolumnN","description": "Mail Merge   value", "type": "" }
+{ "controlwd": "\\mmodsohashN","description": "Mail Merge   value", "type": "" }
+{ "controlwd": "\\mmodsolidN","description": "Mail Merge   value", "type": "" }
+{ "controlwd": "\\mmodsomappedname","description": "Mail Merge   Destination", "type": "" }
+{ "controlwd": "\\mmodsoname","description": "Mail Merge   Destination", "type": "" }
+{ "controlwd": "\\mmodsorecipdata","description": "Mail Merge   Destination", "type": "" }
+{ "controlwd": "\\mmodsosort","description": "Mail Merge", "type": "Destination" }
+{ "controlwd": "\\mmodsosrc","description": "Mail Merge", "type": "Destination" }
+{ "controlwd": "\\mmodsotable","description": "Mail Merge", "type": "Destination" }
+{ "controlwd": "\\mmodsoudl","description": "Mail Merge", "type": "Destination" }
+{ "controlwd": "\\mmodsoudldata","description": "Mail Merge", "type": "Destination" }
+{ "controlwd": "\\mmodsouniquetag","description": "Mail Merge   Destination", "type": "" }
+{ "controlwd": "\\mmPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mmquery","description": "Mail Merge", "type": "Destination" }
+{ "controlwd": "\\mmr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mmreccurN","description": "Mail Merge", "type": "value" }
+{ "controlwd": "\\mmshowdata","description": "Mail Merge", "type": "flag" }
+{ "controlwd": "\\mnary","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mnaryLimN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mnaryPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mnoBreak","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mnor","description": "Math   flag", "type": "" }
+{ "controlwd": "\\mnum","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\moN","description": "Information Group", "type": "value" }
+{ "controlwd": "\\mobjDist","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\moMath","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\moMathPara","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\moMathParaPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mopEmu","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mphant","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mphantPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mplcHide","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mpos","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mpostSpN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mpreSpN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mrad","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mradPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mrMarginN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mrPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mrSpN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mrSpRuleN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mscrN","description": "Math   value", "type": "" }
+{ "controlwd": "\\msepChr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mshow","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mshp","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\msmallFracN","description": "Math   value", "type": "" }
+{ "controlwd": "\\msmcap","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\msPre","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\msPrePr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\msSub","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\msSubPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\msSubSup","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\msSubSupPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\msSup","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\msSupPr","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mstrikeBLTR","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mstrikeH","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mstrikeTLBR","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mstrikeV","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mstyN","description": "Math   value", "type": "" }
+{ "controlwd": "\\msub","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\msubHide","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\msup","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\msupHide","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mtransp","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mtype","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\muser","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\mvauthN","description": "Character Revision Mark Properties", "type": "value" }
+{ "controlwd": "\\mvdateN","description": "Character Revision Mark Properties", "type": "value" }
+{ "controlwd": "\\mvertJc","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mvf","description": "Character Revision Mark Properties", "type": "flag" }
+{ "controlwd": "\\mvfmf","description": "Move Bookmarks", "type": "Destination" }
+{ "controlwd": "\\mvfml","description": "Move Bookmarks", "type": "Destination" }
+{ "controlwd": "\\mvt","description": "Character Revision Mark Properties", "type": "flag" }
+{ "controlwd": "\\mvtof","description": "Move Bookmarks", "type": "Destination" }
+{ "controlwd": "\\mvtol","description": "Move Bookmarks", "type": "Destination" }
+{ "controlwd": "\\mwrapIndentN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mwrapRightN","description": "Math   value", "type": "" }
+{ "controlwd": "\\mzeroAsc","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mzeroDesc","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\mzeroWid","description": "Math   Destination", "type": "" }
+{ "controlwd": "\\nestcell","description": "Table Definitions", "type": "Symbol" }
+{ "controlwd": "\\nestrow","description": "Table Definitions", "type": "Symbol" }
+{ "controlwd": "\\nesttableprops","description": "Table Definitions", "type": "Destination" }
+{ "controlwd": "\\newtblstyruls","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\nextfile","description": "Document Formatting Properties", "type": "Destination" }
+{ "controlwd": "\\noafcnsttbl","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\nobrkwrptbl","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\nocolbal","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\nocompatoptions","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\nocwrap","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\nocxsptable","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\noextrasprl","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\nofcharsN","description": "Information Group", "type": "value" }
+{ "controlwd": "\\nofcharswsN","description": "Information Group", "type": "value" }
+{ "controlwd": "\\nofeaturethrottle","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\nofpagesN","description": "Information Group", "type": "value" }
+{ "controlwd": "\\nofwordsN","description": "Information Group", "type": "value" }
+{ "controlwd": "\\nogrowautofit","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\noindnmbrts","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\nojkernpunct","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\nolead","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\noline","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\nolnhtadjtbl","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\nonesttables","description": "Table Definitions", "type": "Destination" }
+{ "controlwd": "\\nonshppict","description": "Pictures", "type": "flag" }
+{ "controlwd": "\\nooverflow","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\noproof","description": "Font (Character) Formatting Properties", "type": "flag" }
+{ "controlwd": "\\noqfpromote","description": "Quick Styles", "type": "flag" }
+{ "controlwd": "\\nosectexpand","description": "East Asian Control Words", "type": "flag" }
+{ "controlwd": "\\nosnaplinegrid","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\nospaceforul","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\nosupersub","description": "Font (Character) Formatting Properties", "type": "flag" }
+{ "controlwd": "\\notabind","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\notbrkcnstfrctbl","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\notcvasp","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\notvatxbx","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\nouicompat","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\noultrlspc","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\nowidctlpar","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\nowrap","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\nowwrap","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\noxlattoyen","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\objalias","description": "Objects", "type": "Destination" }
+{ "controlwd": "\\objalignN","description": "Objects", "type": "value" }
+{ "controlwd": "\\objattph","description": "Objects", "type": "flag" }
+{ "controlwd": "\\objautlink","description": "Objects", "type": "flag" }
+{ "controlwd": "\\objclass","description": "Objects", "type": "Destination" }
+{ "controlwd": "\\objcropbN","description": "Objects", "type": "value" }
+{ "controlwd": "\\objcroplN","description": "Objects", "type": "value" }
+{ "controlwd": "\\objcroprN","description": "Objects", "type": "value" }
+{ "controlwd": "\\objcroptN","description": "Objects", "type": "value" }
+{ "controlwd": "\\objdata","description": "Objects", "type": "Destination" }
+{ "controlwd": "\\object","description": "Objects", "type": "Destination" }
+{ "controlwd": "\\objemb","description": "Objects", "type": "flag" }
+{ "controlwd": "\\objhN","description": "Objects", "type": "value" }
+{ "controlwd": "\\objhtml","description": "Objects", "type": "flag" }
+{ "controlwd": "\\objicemb","description": "Objects", "type": "flag" }
+{ "controlwd": "\\objlink","description": "Objects", "type": "flag" }
+{ "controlwd": "\\objlock","description": "Objects", "type": "flag" }
+{ "controlwd": "\\objname","description": "Objects", "type": "Destination" }
+{ "controlwd": "\\objocx","description": "Objects", "type": "flag" }
+{ "controlwd": "\\objpub","description": "Objects", "type": "flag" }
+{ "controlwd": "\\objscalexN","description": "Objects", "type": "value" }
+{ "controlwd": "\\objscaleyN","description": "Objects", "type": "value" }
+{ "controlwd": "\\objsect","description": "Objects", "type": "Destination" }
+{ "controlwd": "\\objsetsize","description": "Objects", "type": "flag" }
+{ "controlwd": "\\objsub","description": "Objects", "type": "flag" }
+{ "controlwd": "\\objtime","description": "Objects", "type": "Destination" }
+{ "controlwd": "\\objtransyN","description": "Objects", "type": "value" }
+{ "controlwd": "\\objupdate","description": "Objects", "type": "flag" }
+{ "controlwd": "\\objwN","description": "Objects", "type": "value" }
+{ "controlwd": "\\ogutterN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\oldas","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\oldcprops","description": "Track Changes (Revision Marks)", "type": "Destination" }
+{ "controlwd": "\\oldlinewrap","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\oldpprops","description": "Track Changes (Revision Marks)", "type": "Destination" }
+{ "controlwd": "\\oldsprops","description": "Track Changes (Revision Marks)", "type": "Destination" }
+{ "controlwd": "\\oldtprops","description": "Track Changes (Revision Marks)", "type": "Destination" }
+{ "controlwd": "\\oleclsid","description": "Objects", "type": "Destination" }
+{ "controlwd": "\\operator","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\otblrul","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\outl","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\outlinelevelN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\overlay","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\page","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\pagebb","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\panose","description": "Font Table", "type": "Destination" }
+{ "controlwd": "\\paperhN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\paperwN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\par","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\pararsidN","description": "Track Changes (Revision Marks)", "type": "value" }
+{ "controlwd": "\\pard","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\password","description": "Read-Only Password Protection", "type": "Destination" }
+{ "controlwd": "\\passwordhash","description": "Read-Only Password Protection", "type": "Destination" }
+{ "controlwd": "\\pc","description": "Character Set", "type": "flag" }
+{ "controlwd": "\\pca","description": "Character Set", "type": "flag" }
+{ "controlwd": "\\pgbrdrb","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgbrdrfoot","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgbrdrhead","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgbrdrl","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgbrdroptN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\pgbrdrr","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgbrdrsnap","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgbrdrt","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pghsxnN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\pgnbidia","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnbidib","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnchosung","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgncnum","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgncont","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgndbnum","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgndbnumd","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgndbnumk","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgndbnumt","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgndec","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgndecd","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnganada","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgngbnum","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgngbnumd","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgngbnumk","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgngbnuml","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnhindia","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnhindib","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnhindic","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnhindid","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnhnN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\pgnhnsc","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnhnsh","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnhnsm","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnhnsn","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnhnsp","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnid","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnlcltr","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnlcrm","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnrestart","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnstartN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\pgnstartsN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\pgnthaia","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnthaib","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnthaic","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnucltr","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnucrm","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnvieta","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnxN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\pgnyN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\pgnzodiac","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnzodiacd","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgnzodiacl","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pgp","description": "Paragraph Group Properties", "type": "Destination" }
+{ "controlwd": "\\pgptbl","description": "Paragraph Group Properties", "type": "Destination" }
+{ "controlwd": "\\pgwsxnN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\phcol","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\phmrg","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\phpg","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\picbmp","description": "Pictures", "type": "flag" }
+{ "controlwd": "\\picbppN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\piccropbN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\piccroplN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\piccroprN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\piccroptN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\pichN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\pichgoalN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\picprop","description": "Pictures", "type": "Destination" }
+{ "controlwd": "\\picscaled","description": "Pictures", "type": "flag" }
+{ "controlwd": "\\picscalexN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\picscaleyN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\pict","description": "Pictures", "type": "Destination" }
+{ "controlwd": "\\picwN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\picwgoalN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\pindtabqc","description": "Absolute Position Tabs", "type": "flag" }
+{ "controlwd": "\\pindtabql","description": "Absolute Position Tabs", "type": "flag" }
+{ "controlwd": "\\pindtabqr","description": "Absolute Position Tabs", "type": "flag" }
+{ "controlwd": "\\plain","description": "Font (Character) Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pmartabqc","description": "Absolute Position Tabs", "type": "flag" }
+{ "controlwd": "\\pmartabql","description": "Absolute Position Tabs", "type": "flag" }
+{ "controlwd": "\\pmartabqr","description": "Absolute Position Tabs", "type": "flag" }
+{ "controlwd": "\\pmmetafileN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\pn","description": "Bullets and Numbering", "type": "Destination" }
+{ "controlwd": "\\pnacross","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnaiu","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnaiud","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnaiueo","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnaiueod","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnb","description": "Bullets and Numbering", "type": "Toggle" }
+{ "controlwd": "\\pnbidia","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnbidib","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pncaps","description": "Bullets and Numbering", "type": "Toggle" }
+{ "controlwd": "\\pncard","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pncfN","description": "Bullets and Numbering", "type": "value" }
+{ "controlwd": "\\pnchosung","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pncnum","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pndbnum","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pndbnumd","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pndbnumk","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pndbnuml","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pndbnumt","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pndec","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pndecd","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnfN","description": "Bullets and Numbering", "type": "value" }
+{ "controlwd": "\\pnfsN","description": "Bullets and Numbering", "type": "value" }
+{ "controlwd": "\\pnganada","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pngblip","description": "Pictures", "type": "flag" }
+{ "controlwd": "\\pngbnum","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pngbnumd","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pngbnumk","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pngbnuml","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnhang","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pni","description": "Bullets and Numbering", "type": "Toggle" }
+{ "controlwd": "\\pnindentN","description": "Bullets and Numbering", "type": "value" }
+{ "controlwd": "\\pniroha","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnirohad","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnlcltr","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnlcrm","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnlvlN","description": "Bullets and Numbering", "type": "value" }
+{ "controlwd": "\\pnlvlblt","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnlvlbody","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnlvlcont","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnnumonce","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnord","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnordt","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnprev","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnqc","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnql","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnqr","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnrauthN","description": "Revision Marks for Paragraph Numbers and ListNum Fields", "type": "value" }
+{ "controlwd": "\\pnrdateN","description": "Revision Marks for Paragraph Numbers and ListNum Fields", "type": "value" }
+{ "controlwd": "\\pnrestart","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnrnfcN","description": "Revision Marks for Paragraph Numbers and ListNum Fields", "type": "value" }
+{ "controlwd": "\\pnrnot","description": "Revision Marks for Paragraph Numbers and ListNum Fields", "type": "flag" }
+{ "controlwd": "\\pnrpnbrN","description": "Revision Marks for Paragraph Numbers and ListNum Fields", "type": "value" }
+{ "controlwd": "\\pnrrgbN","description": "Revision Marks for Paragraph Numbers and ListNum Fields", "type": "value" }
+{ "controlwd": "\\pnrstartN","description": "Revision Marks for Paragraph Numbers and ListNum Fields", "type": "value" }
+{ "controlwd": "\\pnrstopN","description": "Revision Marks for Paragraph Numbers and ListNum Fields", "type": "value" }
+{ "controlwd": "\\pnrxstN","description": "Revision Marks for Paragraph Numbers and ListNum Fields", "type": "value" }
+{ "controlwd": "\\pnscaps","description": "Bullets and Numbering", "type": "Toggle" }
+{ "controlwd": "\\pnseclvlN","description": "Section Formatting Properties   Destination and", "type": "Value" }
+{ "controlwd": "\\pnspN","description": "Bullets and Numbering", "type": "value" }
+{ "controlwd": "\\pnstartN","description": "Bullets and Numbering", "type": "value" }
+{ "controlwd": "\\pnstrike","description": "Bullets and Numbering", "type": "Toggle" }
+{ "controlwd": "\\pntext","description": "Bullets and Numbering", "type": "Destination" }
+{ "controlwd": "\\pntxta","description": "Bullets and Numbering", "type": "Destination" }
+{ "controlwd": "\\pntxtb","description": "Bullets and Numbering", "type": "Destination" }
+{ "controlwd": "\\pnucltr","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnucrm","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnul","description": "Bullets and Numbering", "type": "Toggle" }
+{ "controlwd": "\\pnuld","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnuldash","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnuldashd","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnuldashdd","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnuldb","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnulhair","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnulnone","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnulth","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnulw","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnulwave","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnzodiac","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnzodiacd","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\pnzodiacl","description": "Bullets and Numbering", "type": "flag" }
+{ "controlwd": "\\posnegxN","description": "Positioned Objects and Frames", "type": "value" }
+{ "controlwd": "\\posnegyN","description": "Positioned Objects and Frames", "type": "value" }
+{ "controlwd": "\\posxN","description": "Positioned Objects and Frames", "type": "value" }
+{ "controlwd": "\\posxc","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\posxi","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\posxl","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\posxo","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\posxr","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\posyN","description": "Positioned Objects and Frames", "type": "value" }
+{ "controlwd": "\\posyb","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\posyc","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\posyil","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\posyin","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\posyout","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\posyt","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\prauthN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\prcolbl","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\prdateN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\printdata","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\printim","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\private","description": "Document Formatting Properties", "type": "Destination" }
+{ "controlwd": "\\propname","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\proptypeN","description": "Information Group", "type": "value" }
+{ "controlwd": "\\protect","description": "Control Words Introduced by Other Microsoft Products", "type": "Toggle" }
+{ "controlwd": "\\protend","description": "Protection Exceptions", "type": "Destination" }
+{ "controlwd": "\\protlevelN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\protstart","description": "Protection Exceptions", "type": "Destination" }
+{ "controlwd": "\\protusertbl","description": "User Protection Information", "type": "Destination" }
+{ "controlwd": "\\psover","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\pszN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\ptabldot","description": "Absolute Position Tabs", "type": "flag" }
+{ "controlwd": "\\ptablmdot","description": "Absolute Position Tabs", "type": "flag" }
+{ "controlwd": "\\ptablminus","description": "Absolute Position Tabs", "type": "flag" }
+{ "controlwd": "\\ptablnone","description": "Absolute Position Tabs", "type": "flag" }
+{ "controlwd": "\\ptabluscore","description": "Absolute Position Tabs", "type": "flag" }
+{ "controlwd": "\\pubauto","description": "Macintosh Edition Manager Publisher Objects", "type": "flag" }
+{ "controlwd": "\\pvmrg","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\pvpara","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\pvpg","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\pwdN","description": "Control Words Introduced by Other Microsoft Products", "type": "value" }
+{ "controlwd": "\\pxe","description": "Index Entries", "type": "Destination" }
+{ "controlwd": "\\qc","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\qd","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\qj","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\qkN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\ql","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\qmspace","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\qr","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\qt","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\rawclbgdkbdiag","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\rawclbgbdiag","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\rawclbgcross","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\rawclbgdcross","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\rawclbgdkcross","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\rawclbgdkdcross","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\rawclbgdkfdiag","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\rawclbgdkhor","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\rawclbgdkvert","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\rawclbgfdiag","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\rawclbghoriz","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\rawclbgvert","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\rdblquote","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\readonlyrecommended","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\readprot","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\redN","description": "Color Table", "type": "value" }
+{ "controlwd": "\\relyonvmlN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\remdttm","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\rempersonalinfo","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\result","description": "Objects", "type": "Destination" }
+{ "controlwd": "\\revauthN","description": "Character Revision Mark Properties", "type": "value" }
+{ "controlwd": "\\revauthdelN","description": "Character Revision Mark Properties", "type": "value" }
+{ "controlwd": "\\revbarN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\revdttmN","description": "Character Revision Mark Properties", "type": "value" }
+{ "controlwd": "\\revdttmdelN","description": "Character Revision Mark Properties", "type": "value" }
+{ "controlwd": "\\revised","description": "Character Revision Mark Properties", "type": "Toggle" }
+{ "controlwd": "\\revisions","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\revpropN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\revprot","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\revtbl","description": "Track Changes", "type": "Destination" }
+{ "controlwd": "\\revtim","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\riN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\rinN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\row","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\rquote","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\rsidN","description": "Track Changes (Revision Marks)", "type": "value" }
+{ "controlwd": "\\rsidrootN","description": "Track Changes (Revision Marks)", "type": "value" }
+{ "controlwd": "\\rsidtbl","description": "Track Changes (Revision Marks)", "type": "Destination" }
+{ "controlwd": "\\rsltbmp","description": "Objects", "type": "flag" }
+{ "controlwd": "\\rslthtml","description": "Objects", "type": "flag" }
+{ "controlwd": "\\rsltmerge","description": "Objects", "type": "flag" }
+{ "controlwd": "\\rsltpict","description": "Objects", "type": "flag" }
+{ "controlwd": "\\rsltrtf","description": "Objects", "type": "flag" }
+{ "controlwd": "\\rslttxt","description": "Objects", "type": "flag" }
+{ "controlwd": "\\rtfN","description": "RTF Version", "type": "Destination" }
+{ "controlwd": "\\rtlch","description": "Font (Character) Formatting Properties", "type": "flag" }
+{ "controlwd": "\\rtldoc","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\rtlgutter","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\rtlmark","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\rtlpar","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\rtlrow","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\rtlsect","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\rxe","description": "Index Entries", "type": "Destination" }
+{ "controlwd": "\\sN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\saN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\saautoN","description": "Paragraph Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\saftnnalc","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnnar","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnnauc","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnnchi","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnnchosung","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnncnum","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnndbar","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnndbnum","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnndbnumd","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnndbnumk","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnndbnumt","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnnganada","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnngbnum","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnngbnumd","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnngbnumk","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnngbnuml","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnnrlc","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnnruc","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnnzodiac","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnnzodiacd","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnnzodiacl","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnrestart","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnrstcont","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saftnstartN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\sautoupd","description": "Style Sheet", "type": "flag" }
+{ "controlwd": "\\saveinvalidxml","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\saveprevpict","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sbN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\sbasedonN","description": "Style Sheet", "type": "value" }
+{ "controlwd": "\\sbautoN","description": "Paragraph Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\sbkcol","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sbkeven","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sbknone","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sbkodd","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sbkpage","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sbys","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\scaps","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\scompose","description": "Style Sheet", "type": "flag" }
+{ "controlwd": "\\secN","description": "Information Group", "type": "value" }
+{ "controlwd": "\\sect","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\sectd","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sectdefaultcl","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sectexpandN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\sectlinegridN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\sectnum","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\sectrsidN","description": "Track Changes (Revision Marks)", "type": "value" }
+{ "controlwd": "\\sectspecifycl","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sectspecifygenN","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sectspecifyl","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sectunlocked","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnbj","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnnalc","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnnar","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnnauc","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnnchi","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnnchosung","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnncnum","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnndbar","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnndbnum","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnndbnumd","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnndbnumk","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnndbnumt","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnnganada","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnngbnum","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnngbnumd","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnngbnumk","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnngbnuml","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnnrlc","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnnruc","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnnzodiac","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnnzodiacd","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnnzodiacl","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnrestart","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnrstcont","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnrstpg","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sftnstartN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\sftntj","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\shad","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\shadingN","description": "Paragraph Shading", "type": "value" }
+{ "controlwd": "\\shidden","description": "Style Sheet", "type": "flag" }
+{ "controlwd": "\\shift","description": "Style Sheet", "type": "flag" }
+{ "controlwd": "\\showplaceholdtextN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\showxmlerrorsN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\shp","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "Destination" }
+{ "controlwd": "\\shpbottomN","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "value" }
+{ "controlwd": "\\shpbxcolumn","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "flag" }
+{ "controlwd": "\\shpbxignore","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "flag" }
+{ "controlwd": "\\shpbxmargin","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "flag" }
+{ "controlwd": "\\shpbxpage","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "flag" }
+{ "controlwd": "\\shpbyignore","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "flag" }
+{ "controlwd": "\\shpbymargin","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "flag" }
+{ "controlwd": "\\shpbypage","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "flag" }
+{ "controlwd": "\\shpbypara","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "flag" }
+{ "controlwd": "\\shpfblwtxtN","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "value" }
+{ "controlwd": "\\shpfhdrN","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "value" }
+{ "controlwd": "\\shpgrp","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "Destination" }
+{ "controlwd": "\\shpinst","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "Destination" }
+{ "controlwd": "\\shpleftN","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "value" }
+{ "controlwd": "\\shplidN","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "value" }
+{ "controlwd": "\\shplockanchor","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "flag" }
+{ "controlwd": "\\shppict","description": "Pictures", "type": "Destination" }
+{ "controlwd": "\\shprightN","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "value" }
+{ "controlwd": "\\shprslt","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "Destination" }
+{ "controlwd": "\\shptopN","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "value" }
+{ "controlwd": "\\shptxt","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "Destination" }
+{ "controlwd": "\\shpwrkN","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "value" }
+{ "controlwd": "\\shpwrN","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "value" }
+{ "controlwd": "\\shpzN","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "value" }
+{ "controlwd": "\\slN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\slinkN","description": "Style Sheet", "type": "value" }
+{ "controlwd": "\\slmultN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\slocked","description": "Style Sheet", "type": "flag" }
+{ "controlwd": "\\sn","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "Destination" }
+{ "controlwd": "\\snaptogridincell","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\snextN","description": "Style Sheet", "type": "value" }
+{ "controlwd": "\\softcol","description": "Special Characters", "type": "flag" }
+{ "controlwd": "\\softlheightN","description": "Special Characters", "type": "value" }
+{ "controlwd": "\\softline","description": "Special Characters", "type": "flag" }
+{ "controlwd": "\\softpage","description": "Special Characters", "type": "flag" }
+{ "controlwd": "\\sp","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "Destination" }
+{ "controlwd": "\\spersonal","description": "Style Sheet", "type": "flag" }
+{ "controlwd": "\\spltpgpar","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\splytwnine","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\spriorityN","description": "Style Sheet", "type": "value" }
+{ "controlwd": "\\sprsbsp","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sprslnsp","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sprsspbf","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sprstsm","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sprstsp","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\spv","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sqformat","description": "Style Sheet", "type": "flag" }
+{ "controlwd": "\\srauthN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\srdateN","description": "Section Formatting Properties", "type": "value" }
+{ "controlwd": "\\sreply","description": "Style Sheet", "type": "flag" }
+{ "controlwd": "\\ssemihiddenN","description": "Style Sheet", "type": "value" }
+{ "controlwd": "\\staticval","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\stextflowN","description": "Section Text", "type": "value" }
+{ "controlwd": "\\strike","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\striked","description": "Character Text", "type": "Toggle" }
+{ "controlwd": "\\stshfbiN","description": "Default Fonts", "type": "value" }
+{ "controlwd": "\\stshfdbchN","description": "Default Fonts", "type": "value" }
+{ "controlwd": "\\stshfhichN","description": "Default Fonts", "type": "value" }
+{ "controlwd": "\\stshflochN","description": "Default Fonts", "type": "value" }
+{ "controlwd": "\\stylelock","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\stylelockbackcomp","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\stylelockenforced","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\stylelockqfset","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\stylelocktheme","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\stylesheet","description": "Style Sheet", "type": "Destination" }
+{ "controlwd": "\\stylesortmethodN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\styrsidN","description": "Style Sheet", "type": "value" }
+{ "controlwd": "\\sub","description": "Font (Character) Formatting Properties", "type": "flag" }
+{ "controlwd": "\\subdocumentN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\subfontbysize","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\subject","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\sunhideusedN","description": "Style Sheet", "type": "value" }
+{ "controlwd": "\\super","description": "Font (Character) Formatting Properties", "type": "flag" }
+{ "controlwd": "\\sv","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "Destination" }
+{ "controlwd": "\\svb","description": "Word   through Word   RTF for Drawing Objects (Shapes)", "type": "Destination" }
+{ "controlwd": "\\swpbdr","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\tab","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\tabsnoovrlp","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\taprtl","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tbN","description": "Tabs", "type": "value" }
+{ "controlwd": "\\tblindN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\tblindtypeN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\tbllkbestfit","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tbllkborder","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tbllkcolor","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tbllkfont","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tbllkhdrcols","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tbllkhdrrows","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tbllklastcol","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tbllklastrow","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tbllknocolband","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tbllknorowband","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tbllkshading","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tblrsidN","description": "Track Changes (Revision Marks)", "type": "value" }
+{ "controlwd": "\\tc","description": "Table of Contents Entries", "type": "Destination" }
+{ "controlwd": "\\tcelld","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tcfN","description": "Table of Contents Entries", "type": "value" }
+{ "controlwd": "\\tclN","description": "Table of Contents Entries", "type": "value" }
+{ "controlwd": "\\tcn","description": "Table of Contents Entries", "type": "flag" }
+{ "controlwd": "\\tdfrmtxtBottomN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\tdfrmtxtLeftN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\tdfrmtxtRightN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\tdfrmtxtTopN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\template","description": "Document Formatting Properties", "type": "Destination" }
+{ "controlwd": "\\themedata","description": "Theme Data", "type": "Destination" }
+{ "controlwd": "\\themelangN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\themelangcsN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\themelangfeN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\time","description": "Fields   flag", "type": "(obsolete)" }
+{ "controlwd": "\\title","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\titlepg","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\tldot","description": "Tabs", "type": "flag" }
+{ "controlwd": "\\tleq","description": "Tabs", "type": "flag" }
+{ "controlwd": "\\tlhyph","description": "Tabs", "type": "flag" }
+{ "controlwd": "\\tlmdot","description": "Tabs", "type": "flag" }
+{ "controlwd": "\\tlth","description": "Tabs", "type": "flag" }
+{ "controlwd": "\\tlul","description": "Tabs", "type": "flag" }
+{ "controlwd": "\\toplinepunct","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\tphcol","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tphmrg","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tphpg","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tposnegxN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\tposnegyN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\tposxc","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tposxi","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tposxl","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tposxN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\tposxo","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tposxr","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tposyN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\tposyb","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tposyc","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tposyil","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tposyin","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tposyout","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tposyt","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tpvmrg","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tpvpara","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tpvpg","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\tqc","description": "Tabs", "type": "flag" }
+{ "controlwd": "\\tqdec","description": "Tabs", "type": "flag" }
+{ "controlwd": "\\tqr","description": "Tabs", "type": "flag" }
+{ "controlwd": "\\trackformattingN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\trackmovesN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\transmf","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\trauthN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trautofitN","description": "Table Definitions   Toggle", "type": "" }
+{ "controlwd": "\\trbgbdiag","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trbgcross","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trbgdcross","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trbgdkbdiag","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trbgdkcross","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trbgdkdcross","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trbgdkfdiag","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trbgdkhor","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trbgdkvert","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trbgfdiag","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trbghoriz","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trbgvert","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trbrdrb","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trbrdrh","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trbrdrl","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trbrdrr","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trbrdrt","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trbrdrv","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trcbpatN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trcfpatN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trdateN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trftsWidthAN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trftsWidthBN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trftsWidthN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trgaphN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trhdr","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trkeep","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trkeepfollow","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trleftN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trowd","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trpaddbN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trpaddfbN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trpaddflN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trpaddfrN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trpaddftN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trpaddlN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trpaddrN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trpaddtN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trpadobN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trpadofbN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trpadoflN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trpadofrN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trpadoftN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trpadolN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trpadorN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trpadotN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trpatN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trqc","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trql","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trqr","description": "Table Definitions", "type": "flag" }
+{ "controlwd": "\\trrhN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trshdngN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trspdbN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trspdfbN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trspdflN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trspdfrN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trspdftN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trspdlN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trspdrN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trspdtN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trspobN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trspofbN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trspoflN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trspofrN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trspoftN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trspolN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trsporN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trspotN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\truncatefontheight","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\truncex","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\trwWidthAN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trwWidthBN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\trwWidthN","description": "Table Definitions", "type": "value" }
+{ "controlwd": "\\tsN","description": "Style Sheet", "type": "value" }
+{ "controlwd": "\\tsbgbdiag","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbgcross","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbgdcross","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbgdkbdiag","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbgdkcross","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbgdkdcross","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbgdkfdiag","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbgdkhor","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbgdkvert","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbgfdiag","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbghoriz","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbgvert","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbrdrb","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbrdrdgl","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbrdrdgr","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbrdrh","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbrdrl","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbrdrr","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbrdrr","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbrdrt","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsbrdrv","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tscbandhorzeven","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\tscbandhorzodd","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\tscbandshN","description": "Table Styles", "type": "value" }
+{ "controlwd": "\\tscbandsvN","description": "Table Styles", "type": "value" }
+{ "controlwd": "\\tscbandverteven","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\tscbandvertodd","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\tscellcbpatN","description": "Table Styles", "type": "value" }
+{ "controlwd": "\\tscellcfpatN","description": "Table Styles", "type": "value" }
+{ "controlwd": "\\tscellpaddbN","description": "Table Styles", "type": "value" }
+{ "controlwd": "\\tscellpaddfbN","description": "Table Styles", "type": "value" }
+{ "controlwd": "\\tscellpaddflN","description": "Table Styles", "type": "value" }
+{ "controlwd": "\\tscellpaddfrN","description": "Table Styles", "type": "value" }
+{ "controlwd": "\\tscellpaddftN","description": "Table Styles", "type": "value" }
+{ "controlwd": "\\tscellpaddlN","description": "Table Styles", "type": "value" }
+{ "controlwd": "\\tscellpaddrN","description": "Table Styles", "type": "value" }
+{ "controlwd": "\\tscellpaddtN","description": "Table Styles", "type": "value" }
+{ "controlwd": "\\tscellpctN","description": "Table Styles", "type": "value" }
+{ "controlwd": "\\tscellwidthN","description": "Table Styles", "type": "value" }
+{ "controlwd": "\\tscellwidthftsN","description": "Table Styles", "type": "value" }
+{ "controlwd": "\\tscfirstcol","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\tscfirstrow","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\tsclastcol","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\tsclastrow","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\tscnecell","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\tscnwcell","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\tscsecell","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\tscswcell","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\tsd","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\tsnowrap","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsrowd","description": "Style Sheet", "type": "flag" }
+{ "controlwd": "\\tsvertalb","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsvertalc","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\tsvertalt","description": "Table Styles", "type": "flag" }
+{ "controlwd": "\\twoinoneN","description": "New Asia Control Words Created by Word", "type": "value" }
+{ "controlwd": "\\twoonone","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\txN","description": "Tabs", "type": "value" }
+{ "controlwd": "\\txbxtwalways","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\txbxtwfirst","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\txbxtwfirstlast","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\txbxtwlast","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\txbxtwno","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\txe","description": "Index Entries", "type": "Destination" }
+{ "controlwd": "\\uN","description": "Unicode RTF", "type": "value" }
+{ "controlwd": "\\ucN","description": "Unicode RTF", "type": "value" }
+{ "controlwd": "\\ud","description": "Unicode RTF", "type": "Destination" }
+{ "controlwd": "\\ul","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\ulcN","description": "Font (Character) Formatting Properties", "type": "value" }
+{ "controlwd": "\\uld","description": "Font (Character) Formatting Properties", "type": "flag" }
+{ "controlwd": "\\uldash","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\uldashd","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\uldashdd","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\uldb","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\ulhair","description": "East Asian Control Words Created by Word  J", "type": "Toggle" }
+{ "controlwd": "\\ulhwave","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\ulldash","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\ulnone","description": "Font (Character) Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ulth","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\ulth","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\ulthd","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\ulthdash","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\ulthdashd","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\ulthdashdd","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\ulthldash","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\ululdbwave","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\ulw","description": "Font (Character) Formatting Properties", "type": "flag" }
+{ "controlwd": "\\ulwave","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\upN","description": "Font (Character) Formatting Properties", "type": "value" }
+{ "controlwd": "\\upr","description": "Unicode RTF", "type": "Destination" }
+{ "controlwd": "\\urtfN","description": "Control Words Introduced by Other Microsoft Products", "type": "value" }
+{ "controlwd": "\\useltbaln","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\usenormstyforlist","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\userprops","description": "Information Group", "type": "Destination" }
+{ "controlwd": "\\usexform","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\utinl","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\v","description": "Font (Character) Formatting Properties", "type": "Toggle" }
+{ "controlwd": "\\validatexmlN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\vernN","description": "Information Group", "type": "value" }
+{ "controlwd": "\\versionN","description": "Information Group", "type": "value" }
+{ "controlwd": "\\vertal","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\vertalb","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\vertalc","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\vertalj","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\vertalt","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\vertdoc","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\vertsect","description": "Section Formatting Properties", "type": "flag" }
+{ "controlwd": "\\viewbkspN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\viewkindN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\viewnobound","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\viewscaleN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\viewzkN","description": "Document Formatting Properties", "type": "value" }
+{ "controlwd": "\\wbitmapN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\wbmbitspixelN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\wbmplanesN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\wbmwidthbyteN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\webhidden","description": "Font (Character) Formatting Properties", "type": "flag" }
+{ "controlwd": "\\wgrffmtfilter","description": "Document Formatting Properties", "type": "Destination" }
+{ "controlwd": "\\widctlpar","description": "Paragraph Formatting Properties", "type": "flag" }
+{ "controlwd": "\\widowctrl","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\windowcaption","description": "Document Formatting Properties", "type": "Destination" }
+{ "controlwd": "\\wmetafileN","description": "Pictures", "type": "value" }
+{ "controlwd": "\\wpeqn","description": "Fields   flag", "type": "(obsolete)" }
+{ "controlwd": "\\wpjst","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\wpsp","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\wraparound","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\wrapdefault","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\wrapthrough","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\wraptight","description": "Positioned Objects and Frames", "type": "flag" }
+{ "controlwd": "\\wraptrsp","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\writereservation","description": "Document Formatting Properties", "type": "Destination" }
+{ "controlwd": "\\writereservhash","description": "Document Formatting Properties", "type": "Destination" }
+{ "controlwd": "\\wrppunct","description": "Document Formatting Properties", "type": "flag" }
+{ "controlwd": "\\xe","description": "Index Entries", "type": "Destination" }
+{ "controlwd": "\\xefN","description": "Index Entries", "type": "value" }
+{ "controlwd": "\\xform","description": "Document Formatting Properties", "type": "Destination" }
+{ "controlwd": "\\xmlattr","description": "Custom XML Tags", "type": "flag" }
+{ "controlwd": "\\xmlattrname","description": "Custom XML Tags", "type": "Destination" }
+{ "controlwd": "\\xmlattrnsN","description": "Custom XML Tags", "type": "value" }
+{ "controlwd": "\\xmlattrvalue","description": "Custom XML Tags", "type": "Destination" }
+{ "controlwd": "\\xmlclose","description": "Custom XML Tags", "type": "Destination" }
+{ "controlwd": "\\xmlname","description": "Custom XML Tags", "type": "Destination" }
+{ "controlwd": "\\xmlnsN","description": "Custom XML Tags", "type": "value" }
+{ "controlwd": "\\xmlnstbl","description": "Custom XML Tags", "type": "Destination" }
+{ "controlwd": "\\xmlopen","description": "Custom XML Tags", "type": "Destination" }
+{ "controlwd": "\\xmlsdttcell","description": "Custom XML Tags", "type": "flag" }
+{ "controlwd": "\\xmlsdttpara","description": "Custom XML Tags", "type": "flag" }
+{ "controlwd": "\\xmlsdttregular","description": "Custom XML Tags", "type": "flag" }
+{ "controlwd": "\\xmlsdttrow","description": "Custom XML Tags", "type": "flag" }
+{ "controlwd": "\\xmlsdttunknown","description": "Custom XML Tags", "type": "flag" }
+{ "controlwd": "\\yrN","description": "Information Group", "type": "value" }
+{ "controlwd": "\\ytsN","description": "Paragraph Formatting Properties", "type": "value" }
+{ "controlwd": "\\yxe","description": "Index Entries", "type": "flag" }
+{ "controlwd": "\\zwbo","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\zwj","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\zwnbo","description": "Special Characters", "type": "Symbol" }
+{ "controlwd": "\\zwnj","description": "Special Characters", "type": "Symb" }
