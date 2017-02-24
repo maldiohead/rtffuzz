@@ -126,23 +126,6 @@ void main()
 	HANDLE              hToken;
 	LUID                SeDebugNameValue;
 	TOKEN_PRIVILEGES    TokenPrivileges;
-	if (OpenProcessToken(GetCurrentProcess(), TOKEN_ADJUST_PRIVILEGES | TOKEN_QUERY, &hToken))
-	{
-		if (LookupPrivilegeValue(NULL, SE_DEBUG_NAME, &SeDebugNameValue))
-		{
-			TokenPrivileges.PrivilegeCount = 1;
-			TokenPrivileges.Privileges[0].Luid = SeDebugNameValue;
-			TokenPrivileges.Privileges[0].Attributes = SE_PRIVILEGE_ENABLED;
-			if (AdjustTokenPrivileges(hToken, FALSE, &TokenPrivileges, sizeof(TOKEN_PRIVILEGES), NULL, NULL))
-			{
-				CloseHandle(hToken);
-			}
-			else
-			{
-				CloseHandle(hToken);
-			}
-		}
-	}
 	while (1)
 	{
 		traverseProcesses(fp);
