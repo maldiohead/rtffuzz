@@ -78,14 +78,9 @@ def genrtf(obj):
 	fp.close()
 
 
-			
-
-
-
-
 	
 if __name__ == '__main__':
-	fp=open("rtfnew.json","rb")
+	fp=open("rtf.json","rb")
 	obj=fp.read()
 	for i in range(0,0x2000):
 		genrtf(obj)
